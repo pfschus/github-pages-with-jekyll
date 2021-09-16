@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Here is my GitHub pages test site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is part of the [course](https://lab.github.com/githubtraining/github-pages) on [GitHub pages](https://pages.github.com/). 
+
+Started Sept 2021
